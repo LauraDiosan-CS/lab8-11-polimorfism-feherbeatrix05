@@ -1,0 +1,2 @@
+GM model1 macro 4 20 13 nisip
+GP model2 mini 5 20 12 23
